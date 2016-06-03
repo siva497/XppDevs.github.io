@@ -19,15 +19,3 @@ This is GitHub. We are not merely sharing our code, we actively improve and main
 * If you're using any of our code and found an issue or see a missing feature, please make a branch and send us a pull request!
 * Tell your X++ friends and colleagues about us!
 * [Follow us on Twitter](https://twitter.com/xppdevs)
-
-## Where To Start?
-Currently we are focusing on the following three major efforts.
-
-### Tools
-Development tools, code generators, build and deployment scripts... These go here.
-
-### Patterns and Best Practices
-Patterns and best practices, documented and with code examples... These go here.
-
-### Code Samples and Tutorials
-Code samples, tutorial code, miscellaneous code... These go here.
