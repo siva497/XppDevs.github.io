@@ -19,4 +19,4 @@ For other repositories, the associated wikis are the documentation. Read the gui
 Read the guidelines in the repository you wish to contribute to.
 
 ### When In Doubt
-Ask on our [discussion forums](/forums.html).
+Ask on our [discussion forums](/forum.html).
