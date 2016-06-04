@@ -18,5 +18,5 @@ This is GitHub. We are not merely sharing our code, we actively improve and main
 
 - [Follow our discussions](/forum.html) - and join the discussion if you have something to say!
 - If you're using any of our code and found an issue or see a missing feature, please make a branch and send us a pull request!
-- Tell your X++ friends and colleagues about us!
+- Tell your X++ friends and colleagues about Xpp Devs!
 - [Follow us on Twitter](https://twitter.com/xppdevs)
